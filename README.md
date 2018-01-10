@@ -1,6 +1,6 @@
 # page-bot
 
-Para rodar o robô, basta executar o código:
+Para rodar o robô, basta executar o código de dentro do diretório do projeto:
 
 $ ruby robot.rb
 
