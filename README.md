@@ -6,7 +6,7 @@ $ ruby robot.rb
 
 Ele depende de um token de autenticação, que irá durar apenas 60 dias após a publicação da demostração.
 
-A página na qual foram postadas as mensagem se encontra no seguinte link:
+A página na qual foram postadas as mensagens se encontra no seguinte link:
 https://www.facebook.com/pg/Botapp_poster-Community-101007717375715/posts/
 
 Os posts dependem de cursos criados na minha plataforma, localizada no link:
