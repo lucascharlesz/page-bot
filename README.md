@@ -15,7 +15,7 @@ http://botapp.eadbox.com/courses/
 Para ver o robô em ação, basta limpar o json presente no arquivo published_courses.json.
 Deve-se deixar apenas um array vazio no arquivo: [].
 
-Após isso, basta executar o código, e os dois cursos publicados na plataforma de testes que criei em seu ambiente de produção, serão postados no facebook.
+Após isso, basta executar o código, e acessar a página no link fornecido acima, na qual dois cursos publicados na plataforma de testes que criei em seu ambiente de produção, serão postados no facebook.
 
 Espero atender às espectativas (:
 
